@@ -1,8 +1,21 @@
-# React + Vite
+# Project Name: 3D Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a 3D interactable website and is being deployed on Netlify. The models within the website are downloaded from Sketchfab.
 
-Currently, two official plugins are available:
+## Live Demo
+https://verdant-cupcake-e6a27a.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- [Other libraries/frameworks used, e.g., Three.js for 3D aspects]
+- [Any other technologies used in the project]
+
+## Installation and Setup
+Instructions on how to get a local copy up and running.
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd 3D-Website
+npm install
+npm run dev
