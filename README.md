@@ -8,14 +8,16 @@ https://verdant-cupcake-e6a27a.netlify.app/
 
 ## Technologies Used
 - React
-- [Other libraries/frameworks used, e.g., Three.js for 3D aspects]
-- [Any other technologies used in the project]
+- Three.js
+- TailwindCSS
+- Sketchfab models(.glb format) using https://gltf.pmnd.rs/
 
 ## Installation and Setup
 Instructions on how to get a local copy up and running.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/toby12352/3D-Website.git
 cd 3D-Website
 npm install
 npm run dev
+```
