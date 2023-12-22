@@ -16,9 +16,10 @@ const InfoBox = ({text, link, btnText}) => (
 const renderContent = {
     1: (
         <h1 className='sm:text-1 sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>
-            Hi, I am <span className='font-semibold'>Toby.</span>
+            <span className='font-medium sm:text-xl text-center'>Hello, I am Toby.</span>
             <br/>
-            This is my sample website, learnt through Youtube Tutorials
+            <br/>
+            This website is built using React, TailwindCSS, Three.js and Sketchfab.
         </h1>
     ),
     2: (
@@ -30,8 +31,8 @@ const renderContent = {
     ),
     3: (
         <InfoBox
-            text="Visit my portfolio website!"
-            link="https://toby12352.github.io/tobythaung-personal-website/"
+            text="Visit my personal website!"
+            link="https://toby12352.github.io/tobyThaung/"
             btnText="Let's Go!"
         />
     ),
